@@ -1,8 +1,10 @@
-Bộ môn: Trí tuệ nhân tạo
+BỘ MÔN: Trí tuệ nhân tạo
 
-Đề tài: GIẢI BÀI TOÁN CÁI TÚI BẰNG GIẢI THUẬT SIMULATED ANNEALING
+ĐỀ TÀI: GIẢI BÀI TOÁN CÁI TÚI BẰNG GIẢI THUẬT SIMULATED ANNEALING
 
-Tác giả
+TÁC GIẢ
+
+------------------
 
 Nguyễn Đỗ Nhật Minh
 
@@ -12,6 +14,6 @@ Huỳnh Thụy Mai Nguyên
 
 Dương Phương Anh
 
-Mô tả dự án
+MÔ TẢ DỰ ÁN
 
 Dự án này triển khai thuật toán Simulated Annealing (SA) để tìm nghiệm gần tối ưu cho bài toán xếp lịch. 
