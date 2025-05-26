@@ -2,6 +2,8 @@ BỘ MÔN: Trí tuệ nhân tạo
 
 ĐỀ TÀI: GIẢI BÀI TOÁN CÁI TÚI BẰNG GIẢI THUẬT SIMULATED ANNEALING
 
+-----------------
+
 TÁC GIẢ
 
 ------------------
@@ -13,6 +15,8 @@ Tăng Gia Hoàng
 Huỳnh Thụy Mai Nguyên
 
 Dương Phương Anh
+
+------------------
 
 MÔ TẢ DỰ ÁN
 
