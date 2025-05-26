@@ -18,4 +18,4 @@ TÁC GIẢ:
 
 MÔ TẢ DỰ ÁN
 
-  Dự án này triển khai thuật toán Simulated Annealing (SA) để tìm nghiệm gần tối ưu cho bài toán xếp lịch. 
+  Dự án này triển khai thuật toán Simulated Annealing (SA) để tìm lời giải tối ưu cho bài toán xếp lịch. 
