@@ -4,20 +4,18 @@ BỘ MÔN: Trí tuệ nhân tạo
 
 -----------------
 
-TÁC GIẢ
+TÁC GIẢ:
 
-------------------
+  Nguyễn Đỗ Nhật Minh
 
-Nguyễn Đỗ Nhật Minh
+  Tăng Gia Hoàng
 
-Tăng Gia Hoàng
+  Huỳnh Thụy Mai Nguyên
 
-Huỳnh Thụy Mai Nguyên
-
-Dương Phương Anh
+  Dương Phương Anh
 
 ------------------
 
 MÔ TẢ DỰ ÁN
 
-Dự án này triển khai thuật toán Simulated Annealing (SA) để tìm nghiệm gần tối ưu cho bài toán xếp lịch. 
+  Dự án này triển khai thuật toán Simulated Annealing (SA) để tìm nghiệm gần tối ưu cho bài toán xếp lịch. 
